@@ -6,13 +6,14 @@ In this challenge, we will use loops to do some math.
 
 ### Task
 
-Given an integer, <i>n</i>, print its first 10 multiples. Each multiple <i>n</i> x <i>i</i>(where 1 <= <i>i</i> <= 10) should be printed on a new line in the form: ```n x i = result```.
+Given an integer, <i>n</i>, print its first 10 multiples. Each multiple <i>n</i> x <i>i</i>(where 1 <= <i>i</i> <= 10)
+should be printed on a new line in the form: ```n x i = result```.
 
 ### Example
 
 <i>n</i> = 3
 
-The printout should look like this: 
+The printout should look like this:
 
 ```
 3 x 1 = 3
@@ -39,7 +40,8 @@ A single integer, <i>n</i>.
 
 ### Output Format
 
-Print 10 lines of output; each line <i>i</i> (where 1 <= <i>i</i> <= 10) contains the <i>result</i> of <i>n</i> x <i>i</i> in the form: 
+Print 10 lines of output; each line <i>i</i> (where 1 <= <i>i</i> <= 10) contains the <i>result</i> of <i>n</i> x <i>
+i</i> in the form:
 
 ```
 n x i = result.
